@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "phhSlsNGYs8=",
+  "success": true,
+  "projectFilePath": "D:\\Programowanie\\C#\\FlowerVendingV1\\FlowerVendingV1\\FlowerVendingV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wnycz\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\bin\Debug\net8.0\FlowerVendingV1.exe
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\bin\Debug\net8.0\FlowerVendingV1.deps.json
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\bin\Debug\net8.0\FlowerVendingV1.runtimeconfig.json
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\bin\Debug\net8.0\FlowerVendingV1.dll
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\bin\Debug\net8.0\FlowerVendingV1.pdb
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\bin\Debug\net8.0\CsvHelper.dll
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.csproj.AssemblyReference.cache
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.AssemblyInfoInputs.cache
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.AssemblyInfo.cs
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVe.66AB6AFC.Up2Date
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.dll
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\refint\FlowerVendingV1.dll
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.pdb
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\FlowerVendingV1.genruntimeconfig.cache
+D:\Programowanie\C#\FlowerVendingV1\FlowerVendingV1\obj\Debug\net8.0\ref\FlowerVendingV1.dll

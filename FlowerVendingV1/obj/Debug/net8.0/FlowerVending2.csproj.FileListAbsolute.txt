@@ -1,0 +1,17 @@
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.GeneratedMSBuildEditorConfig.editorconfig
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.AssemblyInfoInputs.cache
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.AssemblyInfo.cs
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.csproj.CoreCompileInputs.cache
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.csproj.AssemblyReference.cache
+E:\FlowerVending2\FlowerVending2\bin\Debug\net8.0\FlowerVending2.exe
+E:\FlowerVending2\FlowerVending2\bin\Debug\net8.0\FlowerVending2.deps.json
+E:\FlowerVending2\FlowerVending2\bin\Debug\net8.0\FlowerVending2.runtimeconfig.json
+E:\FlowerVending2\FlowerVending2\bin\Debug\net8.0\FlowerVending2.dll
+E:\FlowerVending2\FlowerVending2\bin\Debug\net8.0\FlowerVending2.pdb
+E:\FlowerVending2\FlowerVending2\bin\Debug\net8.0\CsvHelper.dll
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVe.21540000.Up2Date
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.dll
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\refint\FlowerVending2.dll
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.pdb
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\FlowerVending2.genruntimeconfig.cache
+E:\FlowerVending2\FlowerVending2\obj\Debug\net8.0\ref\FlowerVending2.dll
